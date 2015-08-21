@@ -1,15 +1,12 @@
-# GitBook API Documentation
+# GitBook Documentation
+This book contains the entire documentation for GitBook (gitbook.com and toolchain).
 
-This documentation is intended to get you up-and-running with the GitBook API. We’ll cover everything you need to know, from authentication, to manipulating results, to combining results with other services.
+## Open Source Toolchain
 
-Feel free to fork, clone, and improve this documentation on [GitHub](https://github.com/GitbookIO/api-guide).
+The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: PDF, ePub, mobi or as a website.
 
-### Libraries
+AN API method is available to get information about an user or an organization:
 
-Some official libraries are available to easily get you started:
-
-| Name | Language |
-| ----- | ------- |
-| [node-gitbook-api](https://github.com/GitbookIO/node-gitbook-api) | Node.js |
-| [go-gitbook-api](https://github.com/GitbookIO/go-gitbook-api) | Go (Golang) | 
-
+```
+GET /author/:username
+```
