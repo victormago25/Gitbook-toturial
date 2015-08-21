@@ -1,7 +1,7 @@
 # Summary
 
 * [Overview](README.md)
-1 [Format](Format/README.md)
+* [Format](Format/README.md)
    * [Output](Format/output.md)
    * [Readme and Introduction](Format/readmeFile.md)
    * [Chapters and Subchapters](Format/summaryFile.md)
