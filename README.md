@@ -1,4 +1,4 @@
-# {{book.readme.title}}
+# {{ book.readme.title }}
 This book contains the entire documentation for GitBook (gitbook.com and toolchain).
 
 ## {{book.readme.title2}}
