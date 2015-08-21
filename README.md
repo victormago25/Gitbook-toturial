@@ -7,6 +7,4 @@ The toolchain (GitBook) is a tool for building beautiful books using Git and Mar
 
 AN API method is available to get information about an user or an organization:
 
-```
 GET /author/:username
-```
