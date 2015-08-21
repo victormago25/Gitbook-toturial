@@ -1,7 +1,7 @@
-# GitBook Documentation
+# {{book.readme.title}}
 This book contains the entire documentation for GitBook (gitbook.com and toolchain).
 
-## Open Source Toolchain
+## {{book.readme.title2}}
 
 The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: PDF, ePub, mobi or as a website.
 
