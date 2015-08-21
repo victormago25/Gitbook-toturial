@@ -7,4 +7,4 @@ GitBook uses a convention on top of markup files:
 * [SUMMARY](Format/summaryFile.md): Chapters Structure.
 * [LANGS](Format/multiLanguages.md): Multi-Languages book.
 
-A book needs at least a `README` and a `SUMMARY.
+A book needs at least a `README` and a `SUMMARY`.
